@@ -1,0 +1,11 @@
+# OS
+.DS_Store
+.thumbs
+
+# jupyter
+.local/
+.ipynb_checkpoints/
+.jupyter/
+
+# etc
+.bash_history
